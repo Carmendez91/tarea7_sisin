@@ -18,7 +18,7 @@ Vagrant.configure("2") do |config|
     echo "('LMSGI', 'Bea', 40, 2000.00, 'DAM')," >> /home/vagrant/modulos.sql
     echo "('SISIN', 'Diego', 50, 1000.00, 'DAM')," >> /home/vagrant/modulos.sql
     echo "('PROGR', 'Diego', 10, 2400.00, 'DAM')," >> /home/vagrant/modulos.sql
-    echo "('LEUP', 'Lorena', 5, 2500.00, 'DAM')" >> /home/vagrant/modulos.sql
+    echo "('LEUP', 'Lorena', 5, 2500.00, 'DAM')," >> /home/vagrant/modulos.sql
     echo "('ENDES', 'Guillermo', 5, 2500.00, 'DAM')" >> /home/vagrant/modulos.sql
 
   SHELL
